@@ -1,9 +1,9 @@
 ---
 
-<h1 align="center">Hey there! I'm Leonilde da Silva Mendes 👩🏾‍💻</h1>
+<h1 align="center">Hey there! I'm Leonilde da Silva Mendes </h1>
 
 <p align="center">
-  <strong>"Good morning, good people!" 🌞</strong><br/>
+  <strong>"Good morning, Amazing people!" 🌞</strong><br/>
   Welcome to my GitHub profile!
 </p>
 
